@@ -11,14 +11,14 @@ require (
 	github.com/clipperhouse/uax29/v2 v2.7.0
 	github.com/muesli/cancelreader v0.2.2
 	github.com/rivo/uniseg v0.4.7
-	github.com/xo/terminfo v1.0.0
+	github.com/xo/terminfo v1.3.1
 	golang.org/x/sync v0.22.0
 	golang.org/x/sys v0.47.0
 )
 
 require (
 	github.com/clipperhouse/displaywidth v0.11.0 // indirect
-	github.com/mattn/go-runewidth v0.0.30 // indirect
+	github.com/mattn/go-runewidth v0.0.31 // indirect
 )
 
 require github.com/lucasb-eyer/go-colorful v1.4.1
